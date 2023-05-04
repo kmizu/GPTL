@@ -1,3 +1,5 @@
+package com.github.kmizu.gptl
+
 import scala.util.matching.Regex
 import scala.util.parsing.combinator._
 import scala.util.parsing.input._
